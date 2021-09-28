@@ -5,3 +5,5 @@ Project includes both a Python and an MATLAB version, both produces a real-world
 
 1. Block Matching method using Sum of Absolute Difference (SAD) is implemented in both Python and MATLAB.
 2. Integral Images method is implemented in Python. 
+
+The dataset tested on is found at: https://vision.middlebury.edu/stereo/data/scenes2014/
